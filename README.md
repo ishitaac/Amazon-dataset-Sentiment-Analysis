@@ -16,15 +16,14 @@ This project performs **sentiment analysis** on Amazon product reviews using **m
    - Feature engineering (e.g., review length, feedback analysis)
 
 2. **Model Training**
-  A) MODEL 1: RANDOM FOREST
-   - Applied **Random Forest Classifier** for sentiment classification
-   - Used **K-Fold Cross Validation** for model evaluation
-   - Performed **Grid Search** for hyperparameter tuning
-  A) MODEL 2: XGBOOST
-  C) MODEL 3: DESCISION TREE CLASSIFIER
+   A) MODEL 1: RANDOM FOREST
+   B) MODEL 2: XGBOOST
+   C) MODEL 3: DESCISION TREE CLASSIFIER
 
-3. **Performance Metrics**
-   - **Accuracy:** 93.6%
+4. **Performance Metrics**
+   -  MODEL 1: RANDOM FOREST: **Accuracy:** 93.6%
+   -  MODEL 2: XGBOOST: **Accuracy:** 
+   -  MODEL 3: DESCISION TREE CLASSIFIER: **Accuracy:** 
    - **Precision:** 94.5%
    - **Recall:** 98.9%
    - **F1 Score:** 96.7%
